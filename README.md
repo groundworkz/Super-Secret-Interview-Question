@@ -10,5 +10,5 @@ Well now it's your chance to come up woth something totally crazy.
 `How would you design the worst/craziest highly available static or dynamic webpage?`
 - [x] (Bonus points if it makes us laugh and/or cry with fear)
 
-<!-- Send your ideas to:
-crazyinventors@groundworkz.com -->
+Send your ideas to:
+<!-- crazyinventors@groundworkz.com -->
