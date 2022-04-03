@@ -12,3 +12,4 @@ Well now it's your chance to come up woth something totally crazy.
 
 Send your ideas to:
 <!-- crazyinventors@groundworkz.nl -->
+<!-- P.S. Don't share this to anyone as it'll spoil the secret! -->
