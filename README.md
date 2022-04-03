@@ -8,7 +8,7 @@ Here at **Groundworkz** we like to come up with goofy ideas and see whether they
 Well now it's your chance to come up woth something totally crazy.
 
 `How would you design the worst/craziest highly available static or dynamic webpage?`
-- (Bonus points if it makes us laugh and/or cry with fear)
+- [x] (Bonus points if it makes us laugh and/or cry with fear)
 
 <!-- Send your ideas to:
 crazyinventors@groundworkz.com -->
