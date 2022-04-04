@@ -3,7 +3,7 @@
 ## 🙌 🔍 Well done on finding this super secret interview question.
 
 Here at **Groundworkz** we like to come up with goofy ideas and see whether they work in the real-world.  
-(i.e. If it's stupid and it works...how stupid can it be?!)
+> (If it's stupid and it works...how stupid can it be?!)
 
 Well now it's your chance to come up with something bonkers.  
 To fast-track and bypass a load of boring interview questions simply:
